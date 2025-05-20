@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-mi-color {
+  background-color: #e60012;
+}
+
+.btn-mi-color {
+  background-color: #e60012;
+}
